@@ -4,12 +4,9 @@ QB-Invoice is a resource that allows employees of a company to create an invoice
 
 ## Dependency
 
-[QB-Core]("https://github.com/qbcore-framework/qb-core")
-
-[QB-RadialMenu]("https://github.com/qbcore-framework/qb-radialmenu")
-
-[QB-PEFCL]("https://github.com/project-error/qb-pefcl")
-
+[QB-Core]("https://github.com/qbcore-framework/qb-core")<br>
+[QB-RadialMenu]("https://github.com/qbcore-framework/qb-radialmenu")<br>
+[QB-PEFCL]("https://github.com/project-error/qb-pefcl")<br>
 [PEFCL]("https://github.com/project-error/pefcl")
 ## Installation
 
